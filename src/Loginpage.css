@@ -1,0 +1,12 @@
+.icon{
+    background-color: var(--bs-primary);
+    color: white;
+    border: none;
+}
+.full-width-button {
+    width: 100%;
+}
+.login{
+    margin-top: 100px;
+
+}
